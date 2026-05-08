@@ -1,7 +1,6 @@
 # Spammer-Detection-and-Fake-User-Identification
 A project on Twitter spam detection in online social networks, categorizing methods into fake content, URL spam, trending topic spam, and fake user detection, with comparison based on user, content, graph, structural, and temporal features.
 
-# Twitter Spam Detection System
  # Overview
 Social networking platforms like Twitter are widely used for sharing information globally. However, the rise of spam content, fake accounts, and malicious information has become a serious concern affecting users, system performance, and data reliability.
 This project analyzes and classifies various Twitter spam detection techniques and presents a structured taxonomy of methods used to identify spam content and fake users in Online Social Networks (OSNs).
