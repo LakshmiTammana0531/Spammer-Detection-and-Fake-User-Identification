@@ -88,4 +88,4 @@ Real-time spam detection system using live data streams
 This project presents a structured study of Twitter spam detection techniques and provides a taxonomy of approaches including fake content detection, URL-based spam detection, trending topic spam detection, and fake user identification. It helps in understanding current methods, system limitations, and future research directions in social media security.
 
 # Author
-# Lakshmi Sulochana Tammana
+ Lakshmi Sulochana Tammana
