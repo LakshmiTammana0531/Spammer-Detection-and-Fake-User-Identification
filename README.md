@@ -52,11 +52,11 @@ Time-based features
 Helps in analyzing spam trends and behavior
 
 # Technologies Used
-Programming Language: Java
-Frontend: HTML, CSS, JavaScript
-Backend: MySQL
-IDE: Eclipse
-Concepts Used: Networking, JDBC, ODBC, System Design
+Programming Language: Java <br>
+Frontend: HTML, CSS, JavaScript <br>
+Backend: MySQL <br>
+IDE: Eclipse <br>
+Concepts Used: Networking, JDBC, ODBC, System Design 
 
 # System Features
 Input validation and error handling
