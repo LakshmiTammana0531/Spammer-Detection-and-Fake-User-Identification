@@ -29,7 +29,7 @@ Existing approaches include:
 Matrix factorization techniques
 Hidden Markov Models (HMM)
 Social network-based analysis
-Machine learning-based classification methods
+Machine learning-based classification methods<br>
 🔹 Limitations:
 No proper preprocessing-based filtering system
 Weak URL-based spam detection
@@ -39,7 +39,7 @@ Limited adaptability for real-time spam detection
 Introduces a structured taxonomy for spam detection methods
 Categorizes detection techniques into four main groups
 Improves understanding of spam detection approaches
-Enhances comparison using multiple feature types
+Enhances comparison using multiple feature types<br>
 🔹 Advantages
 Better classification of spam detection techniques
 Improves identification of fake content propagation
