@@ -24,23 +24,23 @@ Identifies fake or bot accounts using behavioral analysis, social network featur
 
 # System Analysis
 
-🔹 Existing System
+# Existing System
 Existing approaches include:
 Matrix factorization techniques
 Hidden Markov Models (HMM)
 Social network-based analysis
 Machine learning-based classification methods
-# Limitations:
+🔹 Limitations:
 No proper preprocessing-based filtering system
 Weak URL-based spam detection
 Limited adaptability for real-time spam detection
 
-🔹 Proposed System
+# Proposed System
 Introduces a structured taxonomy for spam detection methods
 Categorizes detection techniques into four main groups
 Improves understanding of spam detection approaches
 Enhances comparison using multiple feature types
-# Advantages
+🔹 Advantages
 Better classification of spam detection techniques
 Improves identification of fake content propagation
 Uses multiple feature categories:
